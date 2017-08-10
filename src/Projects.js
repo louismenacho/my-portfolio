@@ -25,7 +25,7 @@ class Projects extends React.Component {
                             <h3>This Webpage</h3>
                             <p>My portfolio website is built on the React Framework</p>
                             <ul className="actions">
-                                <li><a href="https://louismenacho.github.io/my-portfolio/" className="button">More</a></li>
+                                <li><a href="https://github.com/louismenacho/my-portfolio" className="button">More</a></li>
                             </ul>
                         </div>
                         <div className="4u$ 12u$(medium)">
