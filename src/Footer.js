@@ -5,9 +5,10 @@ class Footer extends React.Component {
         return(
             <section id="footer">
                 <ul className="icons">
-                    <li><a href="https://www.linkedin.com/in/louis-menacho-420379b5" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
-                    <li><a href="https://github.com/louismenacho" className="icon alt fa-github"><span className="label">GitHub</span></a></li>
-                    <li><a href="mailto:menacho.louis@gmail.com" className="icon alt fa-envelope"><span className="label">Email</span></a></li>
+                    <li><a href="documents/Resume.pdf" className="icon alt fa-file-text"><span className="label">Resume</span></a></li>
+                    <li><a href="https://www.linkedin.com/in/louis-menacho-420379b5" className="icon alt fa-linkedin fa-lg"><span className="label">LinkedIn</span></a></li>
+                    <li><a href="https://github.com/louismenacho" className="icon alt fa-github fa-lg"><span className="label">GitHub</span></a></li>
+                    <li><a href="mailto:menacho.louis@gmail.com" className="icon alt fa-envelope fa-lg"><span className="label">Email</span></a></li>
                 </ul>
                 <ul className="copyright">
                     <li>&copy; Louis Menacho</li>
